@@ -1,4 +1,8 @@
-Bee Rigg and Safa Farooqui
+This is the final project of the Intro To Computer Sciences Class (COM110) At Connecticut College
+
+
+
+Sarah Rigg and Safa Farooqui
 
 Snakes and Ladders
 
